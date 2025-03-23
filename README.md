@@ -1,5 +1,6 @@
 <!-- Banner de GitHub -->
-![Banner GitHub](https://github.com/user-attachments/assets/ae59667b-9cd2-4026-be8b-96c088d46d41)
+![Banner GitHub](https://github.com/user-attachments/assets/ab2626cd-8db9-4d9d-ac37-21ed97093a88)
+
 <p align="center">
   <a href="https://t.me/XLorian1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
   <a href="https://github.com/XLorian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
