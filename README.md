@@ -1,5 +1,6 @@
 <!-- Banner de GitHub -->
-![Banner GitHub](https://github.com/user-attachments/assets/ab2626cd-8db9-4d9d-ac37-21ed97093a88)
+
+![Banner](https://github.com/user-attachments/assets/9f46e1db-30c7-4e13-bf59-96b9a0fdf503)
 
 <p align="center">
   <a href="https://t.me/XLorian1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
@@ -50,6 +51,5 @@ I am a **Full Stack Web Developer** with a strong passion for creating dynamic a
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width="60px"> </picture> Github Stats
-
-[![](https://github-readme-stats.vercel.app/api?username=XLorian&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DanniDev0)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=XLorian&theme=material-palenight)](https://github.com/DanniDev0)
+[![](https://github-readme-stats.vercel.app/api?username=DanniDev0&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/DanniDev0)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=DanniDev0&theme=material-palenight)](https://github.com/DanniDev0)
