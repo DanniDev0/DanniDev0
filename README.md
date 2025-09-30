@@ -1,11 +1,9 @@
 <!-- Banner de GitHub -->
 
-![Banner](https://github.com/user-attachments/assets/9f46e1db-30c7-4e13-bf59-96b9a0fdf503)
+![Banner](https://github.com/user-attachments/assets/9f1c9b84-236c-4068-9c89-998430866116)
 
 <p align="center">
-  <a href="https://t.me/XLorian1"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
-  <a href="https://github.com/XLorian"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/daniel-p%C3%A9rez-02b078339/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
+  <a href="https://www.linkedin.com/in/dannidev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/></a>
   <a href="https://stackoverflow.com/users/29234825/xlorian?tab=profile"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack overflow"/></a>
 </p>
 <p align="center">
